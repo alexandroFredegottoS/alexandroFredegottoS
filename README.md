@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=header"/>
 
 <h1 align="center">Hello, I'm Alexandro 👋</h1>
-<h3 align="center">19 years old • Java Developer in progress 🚀</h3>
+<h3 align="center">20 years old • Java Developer in progress 🚀</h3>
 
 ---
 
