@@ -6,7 +6,7 @@
 
 <p align="center">
   Desenvolvo aplicações web completas com Java e Spring Boot no back-end e
-  Thymeleaf, HTML e CSS no front-end. Estou em busca da minha primeira
+  Thymeleaf, HTML, CSS e JavaScript no front-end. Estou em busca da minha primeira
   oportunidade como Desenvolvedor Full Stack Java Júnior.
 </p>
 
@@ -35,12 +35,16 @@ meus estudos pela lógica de programação e evoluí para o desenvolvimento de
 aplicações web completas, unindo interface, regras de negócio e persistência de
 dados.
 
-Atualmente desenvolvo projetos com **Java, Spring Boot, Thymeleaf, HTML e CSS**,
+Atualmente desenvolvo projetos com **Java, Spring Boot, Thymeleaf, HTML, CSS e JavaScript**,
 criando aplicações com interface responsiva, persistência de dados, validações,
 arquitetura em camadas e testes automatizados. Meu principal projeto é um
 Sistema de Pedidos e Estoque publicado na internet, no qual pratiquei um fluxo
 completo desde as telas de cadastro até as regras de compra e atualização do
 estoque.
+
+Também possuo experiência profissional em suporte de TI, com atendimento a
+usuários, monitoramento de servidores e serviços com Zabbix, suporte remoto via
+VPN e investigação de incidentes em ambiente corporativo.
 
 Busco minha primeira oportunidade como **Desenvolvedor Full Stack Java Júnior**,
 em uma equipe onde eu possa contribuir com dedicação, receber feedback por meio
@@ -60,7 +64,7 @@ de code review e continuar evoluindo com desafios reais de desenvolvimento.
 
 ## 🚀 Projeto em destaque
 
-### Sistema de Pedidos e Estoque
+### Sistema de Gestão de Pedidos e Estoque
 
 Aplicação web para gerenciar clientes, produtos, pedidos e estoque. O sistema
 valida as regras de negócio no back-end, realiza a baixa dos produtos durante a
@@ -70,14 +74,16 @@ compra e gera um comprovante do pedido em PDF.
 
 - Cadastro e gerenciamento de clientes e produtos.
 - Criação de pedidos com vários itens e quantidades.
-- Validação e atualização automática do estoque.
+- Processamento transacional da compra e atualização automática do estoque.
+- Bloqueio pessimista durante a baixa dos produtos.
 - Geração de comprovante em PDF.
 - Persistência de dados com Spring Data JPA.
 - Interface web responsiva com Thymeleaf.
 - Testes automatizados das regras de negócio.
+- CI com GitHub Actions e build com Docker.
 
 **Tecnologias:** Java, Spring Boot, Spring MVC, Thymeleaf, Spring Data JPA,
-Hibernate, MySQL, Bean Validation, JUnit, Mockito e Gradle.
+Hibernate, H2/MySQL, Bean Validation, JUnit, Mockito, Gradle e Docker.
 
 <p>
   <a href="https://github.com/alexandroFredegottoS/Sistema_back-front">
@@ -109,12 +115,12 @@ Hibernate, MySQL, Bean Validation, JUnit, Mockito e Gradle.
 </p>
 
 `Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` ·
-`Thymeleaf` · `MySQL` · `Bean Validation` · `JUnit` · `Mockito` · `Gradle` ·
-`HTML` · `CSS` · `Git`
+`Thymeleaf` · `H2` · `MySQL` · `Bean Validation` · `JUnit` · `Mockito` ·
+`Gradle` · `Docker` · `GitHub Actions` · `HTML` · `CSS` · `JavaScript` · `Git`
 
 ### Estudando agora
 
-`Spring Security` · `JWT` · `PostgreSQL` · `Docker` · `Flyway` ·
+`Spring Security` · `JWT` · `PostgreSQL` · `Flyway` · `OpenAPI/Swagger` ·
 `Testes de integração` · `APIs REST`
 
 ---
